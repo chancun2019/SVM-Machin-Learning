@@ -1,1 +1,2 @@
-# SVM-Machin-Learning
+# SVM-Machine-Learning
+## Ini adalah hasil skripsi saya, tolong digunakan sebaik mungkin
