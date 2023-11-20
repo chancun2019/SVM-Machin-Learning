@@ -1,2 +1,3 @@
 # SVM-Machine-Learning
-## Ini adalah hasil skripsi saya, tolong digunakan sebaik mungkin
+# Sentiment Analysist
+## In my thesis, I conducted research on sentiment analysis on the Twitter platform using the Support Vector Machine (SVM) algorithm. The primary focus of this research was to understand and evaluate public sentiments towards covid-19 topics on Twitter. I designed and implemented a sentiment analysis model using SVM to classify tweets into positive, negative sentiment categories. This process involved data collection from Twitter, data cleaning and preprocessing, as well as tuning the parameters of the SVM algorithm to achieve optimal results. The outcomes of this research provided in-depth insights into how the public reacts to specific topics on social media, demonstrating the potential applications of SVM algorithm in sentiment analysis on a large scale.
